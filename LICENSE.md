@@ -2,7 +2,7 @@
 title: "Licenses"
 ---
 
-## Instructional Material
+## Instructional Material (bioinformatics.ca copyright license?)
 
 All Carpentries (Software Carpentry, Data Carpentry, and Library Carpentry)
 instructional material is made available under the [Creative Commons
