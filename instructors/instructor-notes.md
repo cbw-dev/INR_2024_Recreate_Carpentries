@@ -2,4 +2,8 @@
 title: 'Instructor Notes'
 ---
 
-This is a placeholder file. Please add content here. 
+# IDK What the point of this is
+
+Why does this look so bad 
+
+Where the heck did the thing below come from???

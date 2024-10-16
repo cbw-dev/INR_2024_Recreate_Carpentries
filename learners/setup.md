@@ -2,53 +2,41 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+Welcome to CBW's Introduction to R 2024 Workshop!
 
-## Data Sets
+::::::::::::::::::::::::::::::::::::::: checklist
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+## Pre-Workshop Materials
 
-## Software Setup
+Before continuing, ensure to register, complete your pre-work (below) and ensure your zoom is functional.
 
-::::::::::::::::::::::::::::::::::::::: discussion
+Click [here](https://forms.gle/xba2wVbLXtC1E1Dx9) for the pre-work. This includes programs to install.
 
-### Details
-
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: spoiler
-
-### Windows
-
-Use PuTTY
-
-::::::::::::::::::::::::
-
-:::::::::::::::: spoiler
-
-### MacOS
-
-Use Terminal.app
-
-::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::: spoiler
+::::::::::::::::::::::::::::::::::::::: testimonial
 
-### Linux
+## Meet Your Faculty
 
-Use Terminal
+Click 
+<a href="index.html#Class-Photo">here</a> to meet your faculty, or see the "Meet Your Faculty" section
+under the "More" dropdown!
 
-::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::: keypoints
+
+## Course Schedule
+
+Here's the course schedule! This is also accessible under the "More" dropdown.  
+
+:::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: challenge
+
+## Class Photo
+
+Click here or see the "More" dropdown for the INR 2024 class photo!
+
+:::::::::::::::::::::::::::::::::::::::
