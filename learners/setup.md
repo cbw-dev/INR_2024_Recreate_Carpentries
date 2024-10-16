@@ -19,8 +19,7 @@ Click [here](https://forms.gle/xba2wVbLXtC1E1Dx9) for the pre-work. This include
 
 ## Meet Your Faculty
 
-Click 
-<a href="index.html#Class-Photo">here</a> to meet your faculty, or see the "Meet Your Faculty" section
+Click [here][Meet-Your-Fac] to meet your faculty, or see the "Meet Your Faculty" section
 under the "More" dropdown!
 
 :::::::::::::::::::::::::::::::::::::::
