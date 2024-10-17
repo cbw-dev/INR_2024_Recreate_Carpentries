@@ -82,7 +82,7 @@ learners:
 
 # Information for Instructors
 instructors:
-
+- instructor-notes.md
 
 # Customisation ---------------------------------------------
 #
