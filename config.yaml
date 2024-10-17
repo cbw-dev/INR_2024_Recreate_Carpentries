@@ -69,8 +69,13 @@ episodes:
 - day-1.Rmd
 - day-2.Rmd
 
+# Learner Profiles
+profiles:
+- Learner-Profiles.md
+
 # Information for Learners
 learners:
+- setup.md
 - Meet-Your-Fac.Rmd
 - Course-Schedule.Rmd
 - Class-Photo.Rmd
@@ -78,9 +83,6 @@ learners:
 # Information for Instructors
 instructors:
 
-# Learner Profiles
-profiles:
-- Learner-Profiles.md
 
 # Customisation ---------------------------------------------
 #
