@@ -8,7 +8,7 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-# 
+#
 # This option supports custom types so lessons can be branded
 # and themed with your own logo and alt-text (see `carpentry_description`)
 # See https://carpentries.github.io/sandpaper-docs/editing.html#adding-a-custom-logo
@@ -65,17 +65,23 @@ contact: 'suport@bioinformatics.ca'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.Rmd
-
-# Information for Learners
-learners: 
-
-# Information for Instructors
-instructors: 
+episodes:
+- day-1.Rmd
+- day-2.Rmd
 
 # Learner Profiles
-profiles: 
+profiles:
+
+# Information for Learners
+learners:
+- setup.md
+- Meet-Your-Fac.Rmd
+- Course-Schedule.Rmd
+- Class-Photo.Rmd
+
+# Information for Instructors
+instructors:
+- instructor-notes.md
 
 # Customisation ---------------------------------------------
 #
