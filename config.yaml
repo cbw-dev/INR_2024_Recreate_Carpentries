@@ -74,10 +74,10 @@ profiles:
 
 # Information for Learners
 learners:
-- setup.md
 - Meet-Your-Fac.Rmd
 - Course-Schedule.Rmd
 - Class-Photo.Rmd
+- setup.md
 
 # Information for Instructors
 instructors:
