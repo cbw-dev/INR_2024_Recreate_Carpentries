@@ -1374,8 +1374,7 @@ Carpentries lesson template:
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+INSTRUCTOR NOTES DO NOT SHOW UP FROM THE LEARNERS VIEW, FIND THIS IN EPISODES/DAY-1.Rmd
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
