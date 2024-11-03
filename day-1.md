@@ -916,7 +916,6 @@ abalone_sub3
 3 M               0.694
 ```
 
-
 ### Exercise
 
 Using the base abalone object and tidyverse functions, investigate whether the mean length of male or females (group_by) are longer  of abalone with a `Shucked.weight` greater than 0.3 AND a `Shell.weight` less than 0.3 (filtering rows) .
