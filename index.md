@@ -1,6 +1,6 @@
 ---
 site: sandpaper::sandpaper_site
-title: "NOT SUMMARY AND SETUP !!!"
+title: "Not Summary and Setup"
 ---
 
 Welcome to CBW's Introduction to R workshop! Below, there is important information

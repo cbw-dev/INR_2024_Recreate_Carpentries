@@ -787,7 +787,7 @@ Carpentries lesson template:
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-INSTRUCTOR NOTES DO NOT SHOW UP FROM THE LEARNERS VIEW, FIND THIS IN EPISODES/DAY-1.Rmd
+Instructors notes do not show up from the learners view, find this in episodes/day-1.Rmd
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -864,7 +864,7 @@ Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- OK SO I FINALLY KNOW WHERE THIS COMES FROM, IN THE FILE THAT IT'S SUMMARIZIING, YOU CAN DO A KEYPOINTS SECTION
+- This comes from the file you are summarizing from, this is in the day-1.Rmd file
 
 - Run `sandpaper::check_lesson()` to identify any issues with your lesson
 - Run `sandpaper::build_lesson()` to preview your lesson locally
