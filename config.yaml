@@ -78,6 +78,7 @@ learners:
 - Course-Schedule.Rmd
 - Class-Photo.Rmd
 - setup.md
+- not-reference.md
 
 # Information for Instructors
 instructors:
