@@ -1,6 +1,6 @@
 ---
-title: Glossary
+title: Another Page
 ---
-## Glossary
+## TEST
 
-Glossary Content !!!
+MORE TESTS
