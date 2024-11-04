@@ -79,6 +79,7 @@ learners:
 - Class-Photo.Rmd
 - setup.md
 - not-reference.md
+- reference.md
 
 # Information for Instructors
 instructors:
