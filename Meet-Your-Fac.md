@@ -6,6 +6,11 @@ title: 'Meet Your Faculty'
 
 Here's the team!
 
+<!-- 
+Code to use knitr to output a centered picture
+<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
+-->
+
 ### Frances Wong <font size="3"> (she/her) </font> {-}
 <!-- Note, we probably don't want pronouns to appear in the header name in the toc,
 and right now the formatting of the pronouns is also weird in the toc-->
@@ -14,13 +19,13 @@ and right now the formatting of the pronouns is also weird in the toc-->
 
 out.extra='style="padding-right: 10%;"' --->
 
-<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
-
 >Assistant Professor, Teaching Stream,
 University of Toronto Missisauga
 >
 > --- frances.wong@utoronto.ca
 <!-- Would be nice if there was a nicer way to format this -->
+
+![blank person image](./fig/blank-person.jpg)
 
 Frances Wong is an assistant professor, teaching stream, at the University of Toronto
 Mississauga Department of Biology. She is interested in how dynamic cell populations make
@@ -33,7 +38,7 @@ they collect each semester.
 
 ### Andrés Melani <font size="3"> (he/him) </font> {-}
 
-<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
+![blank person image](./fig/blank-person.jpg)
 
 >Ph.D. student, Courtot Lab
 University of Toronto | Ontario Institute for Cancer Research
@@ -52,7 +57,7 @@ healthcare scenarios.
 
 ### Amin Noorani <font size="3"> (he/him) </font> {-}
 
-<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
+![blank person image](./fig/blank-person.jpg)
 
 >Master Student | Bioinformatician
 Toronto Metropolitan University (Olson Lab)
@@ -71,7 +76,7 @@ determine whether cell images have been treated with various compounds.
 
 ### Zoe Klein <font size="3"> (she/her) </font> {-}
 
-<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
+![blank person image](./fig/blank-person.jpg)
 
 >PhD Candidate, Reimand Lab
 University of Toronto
@@ -84,7 +89,7 @@ non-coding RNA transcripts in cancer.
 
 ### Michelle Brazas, PhD <font size="3"> (she/her) </font> {-}
 
-<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
+![blank person image](./fig/blank-person.jpg)
 
 >Scientific Director
 Canadian Bioinformatics Workshops (CBW)
@@ -101,7 +106,7 @@ Computational Biology where she sits on the Board of Directors and Executive Boa
 
 ### Nia Hughes <font size="3"> (she/her) </font> {-}
 
-<img src="./fig/blank-person.jpg" width="40%" style="display: block; margin: auto;" />
+![blank person image](./fig/blank-person.jpg)
 
 >Program Manager, Bioinformatics.ca
 Ontario Institute for Cancer Research
