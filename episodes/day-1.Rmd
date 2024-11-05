@@ -1,7 +1,7 @@
 ---
 title: "Day 1"
-teaching: 150
-exercises: 7
+teaching: 180
+exercises: 25
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
