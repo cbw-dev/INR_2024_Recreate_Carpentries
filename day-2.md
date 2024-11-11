@@ -1393,7 +1393,7 @@ summary
 ``` output
 function (object, ...) 
 UseMethod("summary")
-<bytecode: 0x5606c5680938>
+<bytecode: 0x55e4e1ba4918>
 <environment: namespace:base>
 ```
 This overall looks like a good model. The p-value is very low and statistically significant. However, the Multiple R-squared values is small and the slope of bmi is low.
