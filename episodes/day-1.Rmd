@@ -22,14 +22,16 @@ exercises: 25
 <!-- Copy the embed code from YouTube, right click, edit the width/height -->
 
 *Below is the rendered and completed version of Day 1's R Markdown file.*
-*Begin with the empty version [here](https://drive.google.com/file/d/19fsvDHPj74MIdHhL7slZ3jfqkTfper2O/view?usp=sharing). You will also need to download the*
+*Begin with the empty version [here](https://drive.google.com/file/d/19fsvDHPj74MIdHhL7slZ3jfqkTfper2O/view?usp=sharing). You will also need to download the following*
 
-- [*Abalone dataset*](https://drive.google.com/file/d/1GrbvNDjUdf8mzY0mr0YD2fb-_2GnnnHb/view?usp=sharing).
+- [*Abalone dataset*](https://drive.google.com/file/d/1GrbvNDjUdf8mzY0mr0YD2fb-_2GnnnHb/view?usp=sharing)
 - [*Water Potability dataset*](https://drive.google.com/file/d/1ZOTY43EyPoNBltGedDfOdsKzq9HSA77e/view?usp=sharing)
 
 All Introduction to R (2024) course materials are available [here](#course-materials).
 
 ---
+
+# Introduction to R 
 
 We will be learning the programming language of R using the RStudio IDE interface.
 
@@ -856,7 +858,7 @@ e.g. by providing the answer to a commonly-asked question.
 ## Math
 
 One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
+dynamic reports with {}, so we now use mathjax to describe this:
 
 `$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
 
